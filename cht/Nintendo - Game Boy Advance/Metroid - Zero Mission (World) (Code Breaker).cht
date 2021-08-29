@@ -1,4 +1,4 @@
-cheats = 6 
+cheats = 7 
 cheat0_desc = "Enable Code (Must Be On)"
 cheat0_code = "000071C3+000A+10000968+0007"
 cheat0_enable = false 
@@ -23,3 +23,6 @@ cheat5_desc = "Infinite Super Missiles"
 cheat5_code = "3300153A+00C7"
 cheat5_enable = false
 
+cheat6_desc = "Infinite Health"
+cheat6_code = "33001536+0513"
+cheats6_enable = false
